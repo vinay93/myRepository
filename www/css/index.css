@@ -18,7 +18,7 @@ color-stop(0.51, #E4E4E4)
 );
 background-attachment:fixed;
 font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
-font-size:12px;
+font-size:30px;
 height:100%;
 margin:0px;
 padding:0px;
@@ -51,13 +51,13 @@ margin:-90px 0px 0px -198px; /* offset vertical: half of image height */
 .app button {
 margin: 10px;
 border-style: solid;
-border-width: 1px;
+border-width: 5px;
 border-radius: 10px;
 line-height: 60px;
 font-size: 30px;
 }
 h1 {
-font-size:50px;
+font-size:75px;
 font-weight:normal;
 margin:0px;
 overflow:visible;
@@ -68,7 +68,7 @@ text-align:center;
 border-radius:4px;
 -webkit-border-radius:4px;
 color:#FFFFFF;
-font-size:12px;
+font-size:20px;
 margin:0px 30px;
 padding:2px 0px;
 }
