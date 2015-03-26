@@ -4,7 +4,7 @@
 xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.hello-world"
 version = "1.0.0">
-<name>Camera App</name>
+<name>CamApp</name>
 <description>
 Camera example app.
 </description>
