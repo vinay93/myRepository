@@ -8,8 +8,8 @@ version = "1.0.0">
 <description>
 Camera example app.
 </description>
-<author href="http://phonegap.com" email="support@phonegap.com">
-PhoneGap Team
+<author>
+Vinay Pandravada
 </author>
 <preference name="phonegap-version" value="3.0.0" />
 <gap:plugin name="org.apache.cordova.core.camera" />
